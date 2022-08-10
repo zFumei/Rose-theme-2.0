@@ -1,0 +1,21 @@
+{
+  "name": "rose-theme",
+  "displayName": "Rose theme",
+  "description": "cant find what i want so i made it",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rose theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rose theme-color-theme.json"
+      }
+    ]
+  }
+}
